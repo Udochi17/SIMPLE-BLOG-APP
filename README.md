@@ -18,5 +18,5 @@ challenge
 - **JavaScript** for functionality
 
 ## Author
-[Kaycee-forgw]  
+[Kaycee-forge]  
 Feel free to contact me if you have any questions or suggestions.
